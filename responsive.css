@@ -1,0 +1,176 @@
+@media only screen and (max-width:400px){
+#nav{
+width: 100%;
+
+}
+#info a{
+    padding: 10px;
+
+}
+#info{
+    position: absolute;
+    top: -10px;
+    font-size: 1rem;
+}
+.lang{
+    position: absolute;
+    right: -50px;
+    top: 28px;
+}
+#dive{
+font-size: 2rem;
+position: absolute;
+top: 80px;
+}
+.buton{
+height: 50px;
+width: 175px;
+font-size: 1rem;
+position:absolute;
+top:280px;
+}
+#bro img{
+height: 305px;
+width: 305px;
+position: absolute;
+top: 60px;
+right:140px;
+
+}
+#second{
+position: absolute;
+right: 0px;
+top:400px;
+
+
+}
+#cards{
+width:100%;
+height:1600px ;
+
+}
+
+#container{
+display: flex;
+flex-direction: column;
+
+
+}
+#next{
+    height: 50px;
+    width: 175px;
+    font-size: 1rem;
+    position:absolute;
+    top:1600px;
+    right: -900px;
+}
+.card1{
+    height: 450px;
+    width: 200px;
+
+}
+#third{
+position: absolute;
+right: 25px;
+top:2300px;
+}
+#bground{
+height: 2200px;
+width: 100%;
+margin-right: 15px;
+
+
+}
+.author-avatar img {
+    
+    height: 100px;
+    width: 100px;
+    margin-top:-100px;
+    margin-right: 50px;
+    
+
+}
+.tags{
+    transform: translateX(-5px);
+    
+    
+            }
+.card-list{
+    display: flex;
+    flex-direction: column;
+
+
+}
+#nex{
+    height: 50px;
+    width: 175px;
+    font-size: 1rem;
+    position:absolute;
+    right: -1080px;
+
+}
+.card-list::-webkit-scrollbar{
+    display: none;
+}
+.card-list::-webkit-scrollbar-thumb{
+    display: none;
+}
+#p{
+    font-size: 2rem;
+}
+.author-avatar img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-top:-40px;
+    margin-right: 5px;
+    
+
+}
+#four{
+display: flex;
+flex-direction: column;
+position: absolute;
+top: 2400px;
+right: 0px;
+
+
+}
+#bc{
+width: auto;
+height: 1600px;
+margin-top: 130px;
+
+
+}
+.supp{
+font-size: 2rem;
+position: absolute;
+top: 5px;
+}
+.next{
+    height: 50px;
+    width: 175px;
+    font-size: 1rem;
+    position: absolute;
+    top: 4060px;
+    right: 70px;
+
+}
+#five{
+position:absolute;
+top: 4200px;
+}
+#myBtn{
+position: absolute;
+top:2100px;
+right:70px;
+
+}
+
+
+
+
+
+
+}
